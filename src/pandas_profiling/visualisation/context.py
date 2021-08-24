@@ -38,6 +38,7 @@ def manage_matplotlib_context() -> Any:
         "image.cmap": "Greys",
         "font.family": ["sans-serif"],
         "font.sans-serif": [
+            "SimHei", # 我加的
             "Arial",
             "Liberation Sans",
             "Bitstream Vera Sans",
